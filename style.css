@@ -170,4 +170,6 @@ button
 #drawer_input:checked ~ .nav_content {
   left: 0;/* メニューを画面に入れる */
 }
-
+li {
+  list-style: none;
+}
