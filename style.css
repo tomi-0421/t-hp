@@ -1,5 +1,3 @@
-/* 追加したホームページ風のスタイル */
-
 /* ヘッダー部分 */
 .header {
   background-color: #3498db;
@@ -36,6 +34,11 @@
   color: #fff;
   padding: 10px;
   text-align: center;
+}
+
+/* navのスタイル */
+nav {
+  background-color: #abffff;
 }
 
 /* チェックボックスを非表示にする */
